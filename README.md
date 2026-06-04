@@ -7,7 +7,7 @@ Implementación de una jerarquía de herencia en Java con las clases `Persona`, 
 
 ## Diagrama de Clases
 
-![Diagrama de clases](Diagrama.png)
+![Diagrama de clases](src/Diagrama.png)
 
 ---
 
